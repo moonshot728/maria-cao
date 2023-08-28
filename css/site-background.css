@@ -11571,7 +11571,7 @@ button.swiper-pagination-bullet {
 }
 
 .elementor-widget-container p {
-	color: #019ddb;
+	color: #000;
 }
 
 .elementor-widget-button .elementor-button {
@@ -15935,7 +15935,13 @@ body.rtl .elementor-321 .elementor-element.elementor-element-2b2e57d {
 }
 
 .pricing-page {
-	margin-top: 144px !important;
+	margin-top: 11vw !important;
+}
+
+@media screen and (max-width: 768px) {
+	.pricing-page {
+		margin-top: 25vw !important;
+	}
 }
 
 .elementor-1012 .elementor-element.elementor-element-24c622e>.elementor-widget-container {

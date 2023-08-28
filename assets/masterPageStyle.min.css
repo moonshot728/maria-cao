@@ -1714,8 +1714,8 @@
   }
 
   .whatsappSect .whatsappShadow .whatsappIconSect {
-    width: 80%;
-    height: 80%;
+    width: 100%;
+    height: 100%;
     display: block;
     background-color: #fff;
     padding: 1.5vw 1.2vw;

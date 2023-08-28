@@ -4812,7 +4812,7 @@ figcaption {
 }
 
 .display-1.color-neutral-100 {
-  color: #fff;
+  color: #000;
 }
 
 .display-1.card-add-cart-price {
@@ -19716,4 +19716,18 @@ figcaption {
   font-weight: 700;
   font-style: normal;
   font-display: swap;
+}
+
+@media screen and (max-width: 768px) {
+  .section.pd-80px {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .text-size-25 {
+    font-size: 16px !important;
+    line-height: 1.4;
+  }
 }
