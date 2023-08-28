@@ -11571,10 +11571,14 @@ button.swiper-pagination-bullet {
 	border-color: var(--e-global-color-primary);
 }
 
+.elementor-widget-container p {
+	color: #019ddb;
+}
+
 .elementor-widget-button .elementor-button {
 	font-family: Thicccboi, sans-serif;
-	font-weight: var(--e-global-typography-accent-font-weight);
-	background-color: var(--e-global-color-accent);
+	font-weight: 800;
+	background-color: #116a30;
 }
 
 .elementor-widget-divider {
@@ -12811,11 +12815,6 @@ button.swiper-pagination-bullet {
 	--padding-left: 0px;
 }
 
-.elementor-727 .elementor-element.elementor-element-00e20d9:not(.elementor-motion-effects-element-type-background),
-.elementor-727 .elementor-element.elementor-element-00e20d9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-color: #F6F6F6;
-}
-
 .elementor-727 .elementor-element.elementor-element-00e20d9,
 .elementor-727 .elementor-element.elementor-element-00e20d9::before {
 	--border-transition: 0.3s;
@@ -12831,7 +12830,7 @@ button.swiper-pagination-bullet {
 }
 
 .elementor-727 .elementor-element.elementor-element-cfc2258 .elementor-heading-title {
-	color: var(--e-global-color-text);
+	color: #FFF;
 	font-family: Thicccboi, sans-serif;
 	font-weight: var(--e-global-typography-primary-font-weight);
 	text-transform: var(--e-global-typography-primary-text-transform);
@@ -12873,7 +12872,7 @@ button.swiper-pagination-bullet {
 
 .elementor-727 .elementor-element.elementor-element-db684a2:not(.elementor-motion-effects-element-type-background),
 .elementor-727 .elementor-element.elementor-element-db684a2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-color: #FFF;
+	background-color: #ebebeb;
 }
 
 .elementor-727 .elementor-element.elementor-element-db684a2,
@@ -13024,7 +13023,7 @@ body:not(.rtl) .elementor-727 .elementor-element.elementor-element-c1099e9 .elem
 
 .elementor-727 .elementor-element.elementor-element-20c5098:not(.elementor-motion-effects-element-type-background),
 .elementor-727 .elementor-element.elementor-element-20c5098>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-color: #FFF;
+	background-color: #ebebeb;
 }
 
 .elementor-727 .elementor-element.elementor-element-20c5098,
