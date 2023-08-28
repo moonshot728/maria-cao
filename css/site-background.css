@@ -20318,3 +20318,15 @@ body.rtl .elementor-321 .elementor-element.elementor-element-2b2e57d {
 	text-align: center;
 	padding: 8px 42px;
 }
+
+.elementor-icon-list-item a span {
+	color: #000 !important;
+}
+
+.elementor-widget-container a {
+	color: #000 !important;
+}
+
+footer {
+	padding-top: 64px;
+}
