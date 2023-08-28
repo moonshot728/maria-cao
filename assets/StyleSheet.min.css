@@ -1,0 +1,10 @@
+﻿@font-face {
+  font-family: 'PT Sans Caption';
+  src: url("PTSans-CaptionBold.eot?");
+  src: url("PTSans-CaptionBold.eot?#iefix") format("embedded-opentype"), url("PTSans-CaptionBold.woff2") format("woff2"), url("PTSans-CaptionBold.woff") format("woff"), url("PTSans-CaptionBold.ttf") format("truetype"), url("PTSans-CaptionBold.svg#PTSans-CaptionBold") format("svg");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: antialiased;
+}

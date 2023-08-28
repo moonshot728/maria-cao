@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85.503" height="78.803" viewBox="0 0 85.503 78.803">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_746" data-name="Rectangle 746" width="72.628" height="45.346" transform="translate(-6 -12)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4127" data-name="Group 4127" transform="matrix(-0.819, 0.574, -0.574, -0.819, 73.705, 30.757)" clip-path="url(#clip-path)">
+    <circle id="Ellipse_38" data-name="Ellipse 38" cx="4" cy="4" r="4" transform="translate(51.128 -5.5)" fill="#839dc9" stroke="#839dc9" stroke-width="1"/>
+    <line id="Line_61" data-name="Line 61" x1="3.277" y2="2.115" transform="translate(0.272 22.411)" fill="none" stroke="#ffc557" stroke-width="1"/>
+    <line id="Line_62" data-name="Line 62" x1="2.38" y1="3.09" transform="translate(1.707 16.195)" fill="none" stroke="#ffc557" stroke-width="1"/>
+    <line id="Line_63" data-name="Line 63" x2="2.38" y2="3.09" transform="translate(6.676 22.95)" fill="none" stroke="#ffc557" stroke-width="1"/>
+    <line id="Line_64" data-name="Line 64" y1="2.115" x2="3.277" transform="translate(7.215 17.709)" fill="none" stroke="#ffc557" stroke-width="1"/>
+  </g>
+</svg>

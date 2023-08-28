@@ -8008,7 +8008,6 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 .e-con-full,
 .e-con>.e-con-inner {
 	text-align: var(--text-align);
-	padding-top: var(--padding-top);
 	padding-bottom: var(--padding-bottom)
 }
 
@@ -12830,7 +12829,7 @@ button.swiper-pagination-bullet {
 }
 
 .elementor-727 .elementor-element.elementor-element-cfc2258 .elementor-heading-title {
-	color: #FFF;
+	color: #554d4d;
 	font-family: Thicccboi, sans-serif;
 	font-weight: var(--e-global-typography-primary-font-weight);
 	text-transform: var(--e-global-typography-primary-text-transform);
@@ -12859,11 +12858,11 @@ button.swiper-pagination-bullet {
 .elementor-727 .elementor-element.elementor-element-db684a2 {
 	--display: flex;
 	--background-transition: 0.3s;
-	--border-radius: 5px 5px 5px 5px;
-	--border-top-left-radius: 5px;
-	--border-top-right-radius: 5px;
-	--border-bottom-right-radius: 5px;
-	--border-bottom-left-radius: 5px;
+	--border-radius: 20px 20px 20px 20px;
+	--border-top-left-radius: 20px;
+	--border-top-right-radius: 20px;
+	--border-bottom-right-radius: 20px;
+	--border-bottom-left-radius: 20px;
 	--padding-top: 50px;
 	--padding-right: 50px;
 	--padding-bottom: 50px;
@@ -12873,6 +12872,7 @@ button.swiper-pagination-bullet {
 .elementor-727 .elementor-element.elementor-element-db684a2:not(.elementor-motion-effects-element-type-background),
 .elementor-727 .elementor-element.elementor-element-db684a2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
 	background-color: #ebebeb;
+	padding-top: 20px !important;
 }
 
 .elementor-727 .elementor-element.elementor-element-db684a2,
@@ -13010,11 +13010,11 @@ body:not(.rtl) .elementor-727 .elementor-element.elementor-element-c1099e9 .elem
 .elementor-727 .elementor-element.elementor-element-20c5098 {
 	--display: flex;
 	--background-transition: 0.3s;
-	--border-radius: 5px 5px 5px 5px;
-	--border-top-left-radius: 5px;
-	--border-top-right-radius: 5px;
-	--border-bottom-right-radius: 5px;
-	--border-bottom-left-radius: 5px;
+	--border-radius: 20px 20px 20px 20px;
+	--border-top-left-radius: 20px;
+	--border-top-right-radius: 20px;
+	--border-bottom-right-radius: 20px;
+	--border-bottom-left-radius: 20px;
 	--padding-top: 50px;
 	--padding-right: 50px;
 	--padding-bottom: 50px;
@@ -13024,6 +13024,7 @@ body:not(.rtl) .elementor-727 .elementor-element.elementor-element-c1099e9 .elem
 .elementor-727 .elementor-element.elementor-element-20c5098:not(.elementor-motion-effects-element-type-background),
 .elementor-727 .elementor-element.elementor-element-20c5098>.elementor-motion-effects-container>.elementor-motion-effects-layer {
 	background-color: #ebebeb;
+	padding-top: 50px;
 }
 
 .elementor-727 .elementor-element.elementor-element-20c5098,
@@ -15933,6 +15934,10 @@ body.rtl .elementor-321 .elementor-element.elementor-element-2b2e57d {
 	line-height: 30px;
 }
 
+.pricing-page {
+	margin-top: 144px !important;
+}
+
 .elementor-1012 .elementor-element.elementor-element-24c622e>.elementor-widget-container {
 	padding: 0px 0px 10px 0px;
 }
@@ -15945,7 +15950,7 @@ body.rtl .elementor-321 .elementor-element.elementor-element-2b2e57d {
 	--margin-bottom: 0px;
 	--margin-left: 0px;
 	--padding-top: 100px;
-	--padding-right: 100px;
+	--padding-right: 20px;
 	--padding-bottom: 20px;
 	--padding-left: 20px;
 }
@@ -20301,6 +20306,7 @@ body.rtl .elementor-321 .elementor-element.elementor-element-2b2e57d {
 }
 
 .searchMaidSect {
+	font-size: 1.5vw;
 	height: 95%;
 	background-color: #f58733;
 	border-radius: 0 4vw 4vw 4vw;

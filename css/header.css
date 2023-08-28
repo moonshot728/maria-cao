@@ -8823,13 +8823,11 @@ figcaption {
 .position-absolute.hero-v1-images-wrapper {
   width: 100%;
   max-width: 73%;
-  margin-bottom: -35%;
-  margin-right: -17%;
-  top: auto;
+  margin-right: -30%;
+  top: -30%;
   bottom: 0%;
   left: auto;
   right: 0%;
-  transform: rotate(-6deg);
 }
 
 .position-absolute.section-integration-gradient {
